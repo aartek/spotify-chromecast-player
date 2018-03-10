@@ -1,0 +1,23 @@
+{
+  "name": "tv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "castv2-client": "^1.2.0",
+    "emitter": "0.0.5",
+    "express": "^3.21.2",
+    "node-schedule": "^1.3.0",
+    "nodecastor": "^0.1.8",
+    "promise-retry-or-throw": "^1.0.5",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "request-promise-native": "^1.0.5",
+    "spotify-web-api-node": "git+https://github.com/kopiro/spotify-web-api-node.git"
+  }
+}
