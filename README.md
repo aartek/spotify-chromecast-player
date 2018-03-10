@@ -82,4 +82,4 @@ How to generate ssl certificate
 https://medium.com/@yash.kulshrestha/using-lets-encrypt-with-express-e069c7abe625
 
 ## Credits
-Based on this article https://developers.caffeina.com/reverse-engineering-spotify-and-chromecast-protocols-to-let-my-vocal-assistant-play-music-ada4767efa2 and this repo https://github.com/kopiro/spotify-castv2-client
+This project is based on this article https://developers.caffeina.com/reverse-engineering-spotify-and-chromecast-protocols-to-let-my-vocal-assistant-play-music-ada4767efa2 and this repo https://github.com/kopiro/spotify-castv2-client
