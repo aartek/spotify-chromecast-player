@@ -16,12 +16,12 @@ http://localhost:3000/status
 ```
 - schedule turning off
 ```
-http://localhost:3000/scheduled-off/{number_of_minutes}
+http://localhost:3000/scheduled-off/{minutes}
 
 i.e http://localhost:3000/scheduled-off/45 will turn off tv after 45 minutes
 
 ```
-- cancel scheduled task
+- cancel scheduled turning off
 ```
 http://localhost:3000/schedule-cancel
 ```
@@ -81,5 +81,5 @@ App should be available under http://localhost:3000. You can change the default 
 How to generate ssl certificate
 https://medium.com/@yash.kulshrestha/using-lets-encrypt-with-express-e069c7abe625
 
-## About
+## Credits
 Based on this article https://developers.caffeina.com/reverse-engineering-spotify-and-chromecast-protocols-to-let-my-vocal-assistant-play-music-ada4767efa2 and this repo https://github.com/kopiro/spotify-castv2-client
